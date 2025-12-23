@@ -17,4 +17,30 @@ Results-driven Project manager & iOS Team Lead at Axisor InfoTech, with<br>broad
 ---
 [![](https://visitcount.itsvg.in/api?id=DipenLad&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# 🚀 Projects: 
+ProspectPro+, Roofing Redline APP<br>
+Link: https://apps.apple.com/us/app/prospect-pro/id1661978661<br>
+ProspectPro+ & RoofingRedline apps are build based on the Prospect+ app. apps were developed from scratch with few basic functionalities from prospect+ app with major modifications and additions to the functionalities.<br>
+
+Prospect+ APP<br>
+Link: https://apps.apple.com/us/app/prospect/id1480356771<br>
+Prospect is an app that is an extension of the base crm provided by Nomo Hub. It allows for easy area management and smooth order entry at your fingertips.<br>
+
+Reward Cards APP<br>
+Link: https://itunes.apple.com/in/app/reward-cards-a-card-wallet/id1305021686?mt=8<br>
+Reward Cards App is a card wallet app to store all your cards with Barcode, QR Code or only card number on your smartphone.<br>
+
+Reward Stamp APP<br>
+Website: https://itunes.apple.com/in/app/reward-stamp/id1383696286?mt=8<br>
+The Reward Stamp App is designed to help businesses acknowledge and reward their loyal customers.<br>
+
+
+# ⚡ Mobile Development & AI Expertise
+
+🛠️ React Native, iOS, iPad, iWatch Application Development<br>
+🌐 Firebase, Google Map APIs, UI/UX, SSL, Certbot<br>
+🤖 AI APIs (OpenAI, Gemini), AI Chatbots, Streaming, Scraping<br>
+🏥 AI-powered Health Apps, Fitness Platforms<br>
+⚙️ Xcode Cloud Deployments<br>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
