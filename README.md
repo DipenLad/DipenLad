@@ -31,7 +31,7 @@ Link: https://itunes.apple.com/in/app/reward-cards-a-card-wallet/id1305021686?mt
 Reward Cards App is a card wallet app to store all your cards with Barcode, QR Code or only card number on your smartphone.<br>
 
 Reward Stamp APP<br>
-Website: https://itunes.apple.com/in/app/reward-stamp/id1383696286?mt=8<br>
+Link: https://itunes.apple.com/in/app/reward-stamp/id1383696286?mt=8<br>
 The Reward Stamp App is designed to help businesses acknowledge and reward their loyal customers.<br>
 
 
