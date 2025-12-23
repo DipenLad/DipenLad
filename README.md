@@ -40,7 +40,7 @@ The Reward Stamp App is designed to help businesses acknowledge and reward their
 🛠️ React Native, iOS, iPad, iWatch Application Development<br>
 🌐 Firebase, Google Map APIs, UI/UX, SSL, Certbot<br>
 🤖 AI APIs (OpenAI, Gemini), AI Chatbots, Streaming, Scraping<br>
-🏥 AI-powered Health Apps, Fitness Platforms<br>
+🏥 AI-powered Social Media Apps, Dating Apps, Health Apps, Fitness Platforms<br>
 ⚙️ Xcode Cloud Deployments<br>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
