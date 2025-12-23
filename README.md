@@ -1,3 +1,8 @@
+ # :wave: Hey, I'm Dipen Lad:
+:rocket: Mobile Application Developer | AI Enthusiast | iOS | React Native<br>
+:bulb: Building scalable apps with Objective C, Swift, SwiftUI, React Native<br>
+:earth_africa: Based in India | Open for collaborations, projects & ideas<br>
+
 # 💫 About Me:
 Results-driven Project manager & iOS Team Lead at Axisor InfoTech, with<br>broad experience in developing user-friendly applications and mentoring<br>teams. Proficient in Objective-C and Swift, I integrate RESTful APIs to<br>enhance functionality while fostering collaboration and communication.<br>Committed to delivering high-quality software solutions that will meet the<br>diverse needs of my clients.
 
